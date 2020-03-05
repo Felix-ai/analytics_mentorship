@@ -9,6 +9,7 @@
 Pull all changes, make sure your repository is up to date
 
 `$ cd analytics_mentorship`
+
 `$ git pull origin master`
 
 Create a new branch as follows-> git checkout -b [assignment_no], e.g.
@@ -18,7 +19,9 @@ Create a new branch as follows-> git checkout -b [assignment_no], e.g.
 See all branches created
 
 `$ git branch`
+
 `* assignment_one`
+
 `  master`
 
 Push the new branch to github
